@@ -1,0 +1,6 @@
+/* CSS Datei im assets Verzeichnis erstellen */
+.dash-datepicker .DateInput_input {
+    font-size: 12px !important;
+    height: 30px !important;
+    text-align: center !important;
+}

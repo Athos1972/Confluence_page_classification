@@ -1,0 +1,6 @@
+
+confluence_space_name = "your_space_name"
+
+confluence_base_url = "https://your_confluence_url"
+
+path_for_page_buffer_data = "confluence_pages"

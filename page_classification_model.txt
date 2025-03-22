@@ -1,0 +1,5 @@
+from Confluence_page_classification.ModelClass import PageClassification
+
+if __name__ == '__main__':
+    classifier = PageClassification()
+    classifier.run()

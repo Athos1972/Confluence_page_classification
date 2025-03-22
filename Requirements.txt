@@ -1,0 +1,25 @@
+pandas
+urllib3
+toml
+disutils
+dash
+dash-bootstrap-components
+dash-table
+plotly
+openpyxl
+setuptools
+beautifulsoup4
+python-dotenv>=0.20.0
+atlassian-python-api>=3.38.0
+pyautogui
+requests>=2.31.0
+numpy~=1.26.4
+xlsxwriter
+# scikit-learn==1.1.1
+transformers
+torch
+textstat==0.7.1
+yake==0.4.8
+matplotlib
+shap
+seaborn
